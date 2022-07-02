@@ -1,0 +1,1 @@
+# Single-and-Double-line-comment-in-javascript
